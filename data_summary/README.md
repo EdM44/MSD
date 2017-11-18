@@ -7,7 +7,7 @@
 5)	allgcms_<scenario>_meanchange_<period>_annual.csv
   mean change, across all gcms, in precipitation for the scenario and period, compared to 1970-1999. Includes Wilcoxon p-value 
   for significance of change. Scenario is either rcp45 or rcp85
-6)	allgcms_{scenario\>_meanchange_<period>_stats.csv
+6)	allgcms_\<scenario\>_meanchange_<period>_stats.csv
   mean change, across all gcms, in 4 key statistics for the designated scenario and period compared to 1970-1999. 
   Statistics are: onset day, end day, duration, intensity, min. Each is followed by its associated Wilcoxon p-value
 7)	obs_historical_pr_1970-1999_stats.csv mean and standard deviation for observed precipitation for indices: 
