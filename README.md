@@ -6,3 +6,4 @@ Maurer, E.P., Roby, N., Stewart-Frey, I.T., Bacon, C.M., Projected twenty-first-
 
 
 data_summary/ contains the data processed across all GCMs
+scripts/ contains ipynb files used to create the data from raw timeseries files
